@@ -1,0 +1,3 @@
+﻿  bst (book - vs).cpp
+C:\Users\Mohi\Documents\data structur\bst (book - vs)\bst (book - vs)\bst (book - vs).cpp(174): warning C4715: 'bst::depth': not all control paths return a value
+  bst (book - vs).vcxproj -> C:\Users\Mohi\Documents\data structur\bst (book - vs)\Debug\bst (book - vs).exe

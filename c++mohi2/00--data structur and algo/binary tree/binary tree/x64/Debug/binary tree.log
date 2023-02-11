@@ -1,0 +1,4 @@
+﻿  binary tree.cpp
+C:\Users\Mohi\Documents\data structur\binary tree\binary tree\binary tree.cpp(95,11): warning C4101: 'str': unreferenced local variable
+C:\Users\Mohi\Documents\data structur\binary tree\binary tree\binary tree.cpp(117,11): warning C4101: 'str': unreferenced local variable
+  binary tree.vcxproj -> C:\Users\Mohi\Documents\data structur\binary tree\x64\Debug\binary tree.exe

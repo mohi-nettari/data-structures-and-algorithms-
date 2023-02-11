@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1622505737 source:f:\proggram nedjmou\k-primes\main.cpp
+	<iostream>
+	<vector>
+

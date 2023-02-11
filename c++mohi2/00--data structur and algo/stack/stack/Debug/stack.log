@@ -1,0 +1,14 @@
+﻿  stack.cpp
+F:\proggram nedjmou\stack\stack\stack.cpp(114,11): error C2374: 'top': redefinition; multiple initialization
+F:\proggram nedjmou\stack\stack\stack.cpp(113): message : see declaration of 'top'
+F:\proggram nedjmou\stack\stack\stack.cpp(123,8): error C2065: 'top': undeclared identifier
+F:\proggram nedjmou\stack\stack\stack.cpp(124,3): error C2065: 'top': undeclared identifier
+F:\proggram nedjmou\stack\stack\stack.cpp(125,3): error C2065: 'top': undeclared identifier
+F:\proggram nedjmou\stack\stack\stack.cpp(128,15): error C2065: 'top': undeclared identifier
+F:\proggram nedjmou\stack\stack\stack.cpp(129,5): error C2065: 'top': undeclared identifier
+F:\proggram nedjmou\stack\stack\stack.cpp(138,8): error C2065: 'top': undeclared identifier
+F:\proggram nedjmou\stack\stack\stack.cpp(139,6): error C2065: 'top': undeclared identifier
+F:\proggram nedjmou\stack\stack\stack.cpp(144,3): error C2065: 'top': undeclared identifier
+F:\proggram nedjmou\stack\stack\stack.cpp(144,9): error C2065: 'top': undeclared identifier
+F:\proggram nedjmou\stack\stack\stack.cpp(161,18): error C2065: 'top': undeclared identifier
+F:\proggram nedjmou\stack\stack\stack.cpp(177,7): error C2065: 'top': undeclared identifier

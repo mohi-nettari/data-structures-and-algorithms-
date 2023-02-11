@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1623269306 source:f:\proggram nedjmou\find the smallest\main.cpp
+	<iostream>
+	<math.h>
+	<stdlib.h>
+

@@ -1,0 +1,8 @@
+﻿  heap (data structure).cpp
+C:\Users\Mohi\Documents\data structur\heap (data structure)\heap (data structure)\heap (data structure).cpp(125,38): error C2146: syntax error: missing ')' before identifier 'N'
+C:\Users\Mohi\Documents\data structur\heap (data structure)\heap (data structure)\heap (data structure).cpp(125,38): error C2146: syntax error: missing ';' before identifier 'N'
+C:\Users\Mohi\Documents\data structur\heap (data structure)\heap (data structure)\heap (data structure).cpp(125,40): error C2059: syntax error: ')'
+C:\Users\Mohi\Documents\data structur\heap (data structure)\heap (data structure)\heap (data structure).cpp(125,38): error C2065: 'N': undeclared identifier
+C:\Users\Mohi\Documents\data structur\heap (data structure)\heap (data structure)\heap (data structure).cpp(127,9): error C2146: syntax error: missing ']' before identifier 'i'
+C:\Users\Mohi\Documents\data structur\heap (data structure)\heap (data structure)\heap (data structure).cpp(127,22): error C2143: syntax error: missing ')' before ';'
+C:\Users\Mohi\Documents\data structur\heap (data structure)\heap (data structure)\heap (data structure).cpp(133,38): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data

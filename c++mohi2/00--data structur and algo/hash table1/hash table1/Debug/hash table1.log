@@ -1,0 +1,4 @@
+﻿  hash table1.cpp
+C:\Users\Mohi\Documents\data structur\hash table1\hash table1\hash table1.cpp(45,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Mohi\Documents\data structur\hash table1\hash table1\hash table1.cpp(44,9): warning C4101: 'tablesize': unreferenced local variable
+  hash table1.vcxproj -> C:\Users\Mohi\Documents\data structur\hash table1\Debug\hash table1.exe

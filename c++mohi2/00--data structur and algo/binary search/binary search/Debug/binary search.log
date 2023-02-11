@@ -1,0 +1,4 @@
+﻿  binary search.cpp
+C:\Users\Mohi\Documents\data structur\binary search\binary search\binary search.cpp(41,26): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\Mohi\Documents\data structur\binary search\binary search\binary search.cpp(45,14): warning C4553: '==': result of expression not used; did you intend '='?
+  binary search.vcxproj -> C:\Users\Mohi\Documents\data structur\binary search\Debug\binary search.exe

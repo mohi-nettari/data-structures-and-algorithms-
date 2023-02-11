@@ -1,0 +1,4 @@
+﻿  hash table.cpp
+C:\Users\Mohi\Documents\data structur\hash table\hash table\hash table.cpp(43,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Mohi\Documents\data structur\hash table\hash table\hash table.cpp(42,9): warning C4101: 'tablesize': unreferenced local variable
+LINK : fatal error LNK1201: error writing to program database 'C:\Users\Mohi\Documents\data structur\hash table\Debug\hash table.pdb'; check for insufficient disk space, invalid path, or insufficient privilege
